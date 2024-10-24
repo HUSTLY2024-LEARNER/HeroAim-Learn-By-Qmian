@@ -1,0 +1,9 @@
+*build*
+*.zip
+.vscode
+.idea
+logs
+*.avi
+.DS_Store
+*/.DS_Store
+*/__pycache__
